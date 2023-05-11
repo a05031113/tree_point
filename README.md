@@ -11,7 +11,7 @@ docker pull a05031113/tree_point
 2. Run with port 3000
 
 ```
-docker run =p 3000:3000 a05031113/tree_point
+docker run -p 3000:3000 a05031113/tree_point
 ```
 
 ## APIs
